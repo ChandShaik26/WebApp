@@ -1,5 +1,23 @@
-﻿Console.WriteLine("Hello Chand! This is the pratical part of Github. This has been done in github");
-;
+﻿methodOne();
 
+void methodOne()
+{
+    Console.WriteLine("Hello Chand");
+}
+
+
+methodTwo();
+
+void methodTwo()
+{
+    Console.WriteLine("Hello Chand");
+}
+
+methodThree();
+
+void methodThree()
+{
+    Console.WriteLine("Hello Chand");
+}
 
 
