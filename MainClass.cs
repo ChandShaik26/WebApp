@@ -1,7 +1,5 @@
-﻿myMethod();
+﻿Console.WriteLine("Hello Chand! This is the pratical part of Github. This has been done in github");
+;
 
- 
-void myMethod()
-{
-    Console.WriteLine("Hello Chand!");
-}
+
+
