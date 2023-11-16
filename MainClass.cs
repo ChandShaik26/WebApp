@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello Chand!");
+﻿Console.WriteLine("Hello Chand! This is the pratical part of Github");
